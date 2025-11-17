@@ -23,7 +23,7 @@
 
 ---
 
-# 🇸🇻 **Sobre mí**
+#**Sobre mí**
 
 🎓 Soy estudiante de **Ingeniería informatica** en la  
 **Universidad Centroamericana José Simeón Cañas (UCA)**.
