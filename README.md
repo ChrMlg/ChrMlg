@@ -5,7 +5,7 @@
 
 **About Me**
 
-🎓 I'm a **Software Engineering** at  
+🎓 I'm a **Software Engineering** student at  
 **Universidad Centroamericana José Simeón Cañas (UCA)**.
 
 💻 I have hands-on experience with multiple languages and frameworks:
